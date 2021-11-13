@@ -29,13 +29,14 @@
 
 <div align="center">
   <h3> Find me: </h3>
+  
   <a href="mailto:kevin.rickelme@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="mailto:Kevin.rickelme@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/kevin-rick" target="_blank">
+  <a href="https://linkedin.com/in/kevin-rick?target=_blank" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://kevinrickelme.github.io/portfolio" target="_blank">
