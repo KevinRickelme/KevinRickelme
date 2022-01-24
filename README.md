@@ -8,7 +8,7 @@
 #
 
 
-<h3 align="center">Most loved languages by me:</h3>
+<h3 align="center">Main skills:</h3>
 
 <div display="inline-block" align="center">
   <br>
