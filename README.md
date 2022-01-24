@@ -66,4 +66,3 @@
 
 #
 
-<h3 align="center">Não tem cobrinha aqui.</h3>
